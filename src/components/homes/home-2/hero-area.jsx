@@ -12,8 +12,8 @@ const hero_contents = {
   highlightText: 'digital marketer',
   hero_img: '/assets/img/hero/hero-3.png',
   brands: [
-    { img: 'hero-icon-1', title: 'Dribbble',link: 'https://dribbble.com/' },
-    { img: 'hero-icon-2', title: 'Behance',link: 'https://www.behance.net/' },
+    { img: 'hero-icon-1', title: 'Dribbble',link: 'https://dribbble.com/allppp' },
+    { img: 'hero-icon-2', title: 'Behance',link: 'https://www.behance.net/alipbahtiar' },
     { img: 'hero-icon-3', title: 'Massage',link: 'mailto:alipbahtiar88@gmail.com' },
   ]
 }
