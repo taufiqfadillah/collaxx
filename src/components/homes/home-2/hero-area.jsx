@@ -8,8 +8,8 @@ const hero_contents = {
     { number: 'three z-index-1', img: '/assets/img/hero/Spiral.png' },
     { number: 'four z-index-1', img: '/assets/img/hero/hero-light-2.png' },
   ],
-  title: 'Hi 👋 I am collax, website and user interface',
-  highlightText: 'Designer',
+  title: 'Hi 👋 I am alip, digital marketing specialist',
+  highlightText: 'digital marketer',
   hero_img: '/assets/img/hero/hero-3.png',
   brands: [
     { img: 'hero-icon-1', title: 'Dribbble',link: 'https://dribbble.com/' },
